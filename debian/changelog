@@ -1,0 +1,24 @@
+haskell-libyaml (0.1.2-deepin1) unstable; urgency=medium
+
+  * Rebuild
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:39:47 +0800
+
+haskell-libyaml (0.1.2-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Wed, 03 Jun 2020 13:26:18 -0400
+
+haskell-libyaml (0.1.1.0-2) unstable; urgency=medium
+
+  * Add libyaml-dev and pkg-config to the libghc-libyaml-dev Depends
+    list.
+
+ -- Clint Adams <clint@debian.org>  Thu, 01 Aug 2019 22:02:47 -0400
+
+haskell-libyaml (0.1.1.0-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Clint Adams <clint@debian.org>  Wed, 31 Jul 2019 18:45:56 -0400
