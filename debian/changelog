@@ -1,8 +1,9 @@
-haskell-libyaml (0.1.2-deepin1) unstable; urgency=medium
+haskell-libyaml (0.1.2-2) unstable; urgency=medium
 
-  * Rebuild
+  * Declare compliance with Debian policy 4.6.1
+  * Sourceful upload for GHC 9.0.2
 
- -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:39:47 +0800
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Mon, 25 Jul 2022 10:42:31 +0300
 
 haskell-libyaml (0.1.2-1) unstable; urgency=medium
 
